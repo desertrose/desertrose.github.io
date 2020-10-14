@@ -1,0 +1,2983 @@
+{
+    "byAreaData": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "male": 14,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 99,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 28,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 5,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 7,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 23,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 40,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 173,
+                            "female": 408,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 374,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 109,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 3,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 72,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "male": 14,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 99,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 28,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 7,
+                            "female": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 5,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 7,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 23,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 39,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 173,
+                            "female": 403,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 375,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 109,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 3,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 71,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "male": 14,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 98,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 28,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 5,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 23,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 38,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 188,
+                            "female": 428,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 369,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 108,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 71,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "male": 14,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 98,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 12,
+                            "female": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 28,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 24,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 30,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 191,
+                            "female": 427,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 380,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 108,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 73,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "male": 12,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 99,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 27,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 29,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 191,
+                            "female": 434,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 372,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 107,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 73,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "male": 11,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 96,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 12,
+                            "female": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 27,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 28,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 193,
+                            "female": 434,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 367,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 107,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 72,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 96,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 12,
+                            "female": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 27,
+                            "female": 24,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 14,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 146,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 27,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 195,
+                            "female": 430,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 376,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 107,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 72,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 96,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 12,
+                            "female": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 29,
+                            "female": 24,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 202,
+                            "female": 460,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 370,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 107,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 70,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 95,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 12,
+                            "female": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 29,
+                            "female": 24,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 146,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 206,
+                            "female": 460,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 368,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 105,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 71,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 95,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 16,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 17,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 205,
+                            "female": 460,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 366,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 106,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 70,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 25,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 16,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 146,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 205,
+                            "female": 463,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 363,
+                            "female": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 105,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 4,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 70,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 11,
+                            "female": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 24,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 12,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 9,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 206,
+                            "female": 461,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 358,
+                            "female": 15,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 103,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 63,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 3,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 68,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 9,
+                            "female": 6,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 23,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 146,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 2,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 13,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 6,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 231,
+                            "female": 520,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 367,
+                            "female": 16,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 107,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 64,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 2,
+                            "female": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 68,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 96,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 6,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 10,
+                            "female": 5,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 6,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 4,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 29,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 146,
+                            "female": 30,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 232,
+                            "female": 539,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 415,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 115,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 78,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 1,
+                            "female": 1,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 68,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 96,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 10,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 6,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 17,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 146,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 230,
+                            "female": 533,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 413,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 79,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "male": 66,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 95,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 6,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 17,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 18,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 147,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 230,
+                            "female": 529,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 412,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 77,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 65,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 6,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 17,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 149,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 228,
+                            "female": 527,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 409,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 66,
+                            "female": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "male": 11,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 9,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 17,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 148,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 26,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 241,
+                            "female": 585,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 408,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 67,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 8,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 246,
+                            "female": 588,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 407,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 68,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 8,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 246,
+                            "female": 588,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 407,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 68,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 8,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 246,
+                            "female": 588,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 407,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 68,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 8,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 246,
+                            "female": 588,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 407,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 68,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 8,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 246,
+                            "female": 588,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 407,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 68,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "male": 10,
+                            "female": 2,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "male": 94,
+                            "female": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "male": 8,
+                            "female": 0,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "male": 8,
+                            "female": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "male": 8,
+                            "female": 4,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "male": 8,
+                            "female": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "male": 5,
+                            "female": 3,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "male": 30,
+                            "female": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "male": 18,
+                            "female": 15,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "male": 8,
+                            "female": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "male": 19,
+                            "female": 13,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "male": 10,
+                            "female": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "male": 145,
+                            "female": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "male": 3,
+                            "female": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "male": 6,
+                            "female": 3,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "male": 25,
+                            "female": 12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "male": 0,
+                            "female": 1,
+                            "name": "R&D"
+                        },
+                        {
+                            "male": 25,
+                            "female": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "male": 246,
+                            "female": 588,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "male": 407,
+                            "female": 17,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "male": 114,
+                            "female": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "male": 75,
+                            "female": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "male": 68,
+                            "female": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

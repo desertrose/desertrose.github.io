@@ -1,0 +1,3734 @@
+{
+    "employeeTypeData": [
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 350,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1504,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 352,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1512,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 354,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1512,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 352,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1514,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 356,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1511,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 352,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1487,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 357,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1479,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 355,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1490,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 355,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1495,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 352,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1489,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 353,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1456,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 356,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1460,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1733,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1733,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1733,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1733,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1733,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1733,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 360,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1730,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 356,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1661,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 354,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1669,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 356,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1677,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 356,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1685,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 351,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 1601,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "genderData": [
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 121,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 501,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 229,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1003,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 122,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 503,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 230,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1009,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 122,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 500,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 232,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1012,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 120,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 500,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 232,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1014,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 121,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 500,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1011,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 120,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 471,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 232,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1016,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 124,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 474,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 233,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1005,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 122,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 474,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 233,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1016,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 120,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 468,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1027,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 119,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 470,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 233,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1019,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 118,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 444,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1012,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 118,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 449,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 238,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1011,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 628,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 628,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 628,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 628,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 628,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 628,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 125,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 625,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 235,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1105,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 123,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 567,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 233,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1094,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 123,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 569,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 231,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1100,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 124,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 573,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 232,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1104,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 124,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 577,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 232,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1108,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "gender": "FEMENINO",
+                            "value": 123,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "FEMENINO",
+                            "value": 560,
+                            "name": "Sindicalizado"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 228,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "gender": "MASCULINO",
+                            "value": 1041,
+                            "name": "Sindicalizado"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "generationData": [
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 401,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 329,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1117,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 402,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 332,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1122,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 402,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 330,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1126,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 401,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 329,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1128,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 402,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 325,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1132,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 406,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 307,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1118,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 9,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 405,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 304,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1118,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 10,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 301,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1124,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 411,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 299,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1129,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 415,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 291,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1124,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 419,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 260,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1119,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 421,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 258,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1126,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 451,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1225,
+                            "name": "Millenials 1980 a 1994"
+                        },
+                        {
+                            "value": 1,
+                            "name": "No clasificado"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 451,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1225,
+                            "name": "Millenials 1980 a 1994"
+                        },
+                        {
+                            "value": 1,
+                            "name": "No clasificado"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 451,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1225,
+                            "name": "Millenials 1980 a 1994"
+                        },
+                        {
+                            "value": 1,
+                            "name": "No clasificado"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 451,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1225,
+                            "name": "Millenials 1980 a 1994"
+                        },
+                        {
+                            "value": 1,
+                            "name": "No clasificado"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 451,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1225,
+                            "name": "Millenials 1980 a 1994"
+                        },
+                        {
+                            "value": 1,
+                            "name": "No clasificado"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 451,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1225,
+                            "name": "Millenials 1980 a 1994"
+                        },
+                        {
+                            "value": 1,
+                            "name": "No clasificado"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 411,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 445,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1227,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 408,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 410,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1192,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 409,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 415,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1192,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 411,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 416,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1199,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 411,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 417,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1206,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "Baby Boomers 1946-1959"
+                        },
+                        {
+                            "value": 399,
+                            "name": "Generación X 1960 a 1979"
+                        },
+                        {
+                            "value": 383,
+                            "name": "Generación Z 1995 a 2010"
+                        },
+                        {
+                            "value": 1163,
+                            "name": "Millenials 1980 a 1994"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "averageHC": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 92,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 11,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 9,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 27,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 155,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 5,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 46,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 542,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 330,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 100,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 68,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 91,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 11,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 8,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 27,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 154,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 5,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 44,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 541,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 333,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 100,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 67,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 91,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 11,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 9,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 157,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 5,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 27,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 44,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 575,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 335,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 96,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 68,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 90,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 11,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 14,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 29,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 9,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 160,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 35,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 574,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 345,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 90,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 11,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 14,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 29,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 9,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 7,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 160,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 34,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 580,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 337,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 87,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 10,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 15,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 29,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 7,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 158,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 34,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 582,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 333,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 69,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 10,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 87,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 9,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 14,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 29,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 159,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 33,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 579,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 343,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 69,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 10,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 87,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 14,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 50,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 158,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 612,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 336,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 94,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 68,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 86,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 161,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 616,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 334,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 69,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 86,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 51,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 24,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 161,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 614,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 334,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 92,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 69,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 85,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 12,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 51,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 25,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 162,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 618,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 330,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 92,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 69,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 85,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 12,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 51,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 25,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 162,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 32,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 616,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 328,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 90,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 5,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 67,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 84,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 11,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 50,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 7,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 160,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 32,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 699,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 340,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 94,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 68,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 85,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 11,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 48,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 26,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 161,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 33,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 715,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 339,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 2,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 68,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 85,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 10,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 49,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 27,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 165,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 33,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 709,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 336,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 65,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 85,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 9,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 27,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 167,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 33,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 704,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 334,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 72,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 66,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 83,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 9,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 27,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 169,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 33,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 700,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 334,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 92,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 73,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 67,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 12,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 9,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 30,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 169,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 8,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 32,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 771,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 332,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 73,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 69,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 166,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 778,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 331,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 166,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 778,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 331,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 166,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 779,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 331,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 166,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 779,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 331,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 166,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 779,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 331,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 80,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 7,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 14,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 10,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 166,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 9,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 29,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 31,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 779,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 331,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 91,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 74,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 70,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

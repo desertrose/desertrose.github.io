@@ -1,0 +1,4153 @@
+{
+    "ausentismosByArea": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 13,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 28,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 38,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 6,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 9,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 85,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 41,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 33,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 21,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 15,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 14,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 3,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 31,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 48,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 138,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 78,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 36,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 16,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 10,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 24,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 51,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 15,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 90,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 43,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 36,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 7,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 83,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 76,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 43,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 13,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 30,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 9,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 7,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 2,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 52,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 11,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 81,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 13,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 14,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 29,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 2,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 67,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 1153,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 93,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 11,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 15,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 9,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 2,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 42,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 96,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 36,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 29,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 6,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 3,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 37,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 96,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 31,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 7,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 32,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 9,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 7,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 46,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 87,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 60,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 20,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 30,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 50,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 113,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 29,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 5,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 12,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 62,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 2,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 101,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 20,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 5,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 60,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 4,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 94,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 30,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 2,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 10,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 3,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 4,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 53,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 2,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 126,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 73,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 7,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 18,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 64,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 19,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 2,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 129,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 47,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 14,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 16,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 45,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 86,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 58,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 65,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 32,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 10,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 3,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 13,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 46,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 25,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 2,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 41,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 69,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 54,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 3,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 37,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 61,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 54,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "ausentismosByYear": [
+        {
+            "Years": 2019,
+            "Ausentismos": 4133
+        },
+        {
+            "Years": 2020,
+            "Ausentismos": 1435
+        }
+    ],
+    "ausentismosIndexByMonth": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 360.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 15,
+                            "emp": 2760.00,
+                            "indice": 0.54,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 330.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 390.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 450.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 14,
+                            "emp": 1470.00,
+                            "indice": 0.95,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 900.00,
+                            "indice": 0.33,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 31,
+                            "emp": 810.00,
+                            "indice": 3.83,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 240.00,
+                            "indice": 0.42,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 48,
+                            "emp": 4650.00,
+                            "indice": 1.03,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 150.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 840.00,
+                            "indice": 0.12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 8,
+                            "emp": 1380.00,
+                            "indice": 0.58,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 138,
+                            "emp": 16275.00,
+                            "indice": 0.85,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 78,
+                            "emp": 9900.00,
+                            "indice": 0.79,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 36,
+                            "emp": 3000.00,
+                            "indice": 1.20,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 16,
+                            "emp": 2040.00,
+                            "indice": 0.78,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 324.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 13,
+                            "emp": 2457.00,
+                            "indice": 0.53,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 297.00,
+                            "indice": 0.34,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 351.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 405.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 162.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 1323.00,
+                            "indice": 0.23,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 810.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 216.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 28,
+                            "emp": 729.00,
+                            "indice": 3.84,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 216.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 38,
+                            "emp": 4158.00,
+                            "indice": 0.91,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 135.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 243.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 756.00,
+                            "indice": 0.79,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 9,
+                            "emp": 1201.50,
+                            "indice": 0.75,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 85,
+                            "emp": 14607.00,
+                            "indice": 0.58,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 41,
+                            "emp": 8991.00,
+                            "indice": 0.46,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 33,
+                            "emp": 2700.00,
+                            "indice": 1.22,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 189.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 21,
+                            "emp": 1809.00,
+                            "indice": 1.16,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 360.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 10,
+                            "emp": 2730.00,
+                            "indice": 0.37,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 330.00,
+                            "indice": 0.30,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 405.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 450.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1470.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 900.00,
+                            "indice": 0.11,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 24,
+                            "emp": 780.00,
+                            "indice": 3.08,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 51,
+                            "emp": 4710.00,
+                            "indice": 1.08,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 150.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 810.00,
+                            "indice": 0.12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 15,
+                            "emp": 1320.00,
+                            "indice": 1.14,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 90,
+                            "emp": 17250.00,
+                            "indice": 0.52,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 43,
+                            "emp": 10065.00,
+                            "indice": 0.43,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 36,
+                            "emp": 2880.00,
+                            "indice": 1.25,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 2040.00,
+                            "indice": 0.34,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 1,
+                            "emp": 322.00,
+                            "indice": 0.31,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 2520.00,
+                            "indice": 0.28,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 308.00,
+                            "indice": 1.30,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 406.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 420.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 168.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 1372.00,
+                            "indice": 0.22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 826.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 252.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 728.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 224.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 83,
+                            "emp": 4480.00,
+                            "indice": 1.85,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 168.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 224.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 784.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 980.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 76,
+                            "emp": 16072.00,
+                            "indice": 0.47,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 43,
+                            "emp": 9660.00,
+                            "indice": 0.45,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 13,
+                            "emp": 2604.00,
+                            "indice": 0.50,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 196.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 30,
+                            "emp": 1960.00,
+                            "indice": 1.53,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 1,
+                            "emp": 330.00,
+                            "indice": 0.30,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 9,
+                            "emp": 2700.00,
+                            "indice": 0.33,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 330.00,
+                            "indice": 2.12,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 420.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 450.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1470.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 870.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 780.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 46,
+                            "emp": 4800.00,
+                            "indice": 0.96,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 180.00,
+                            "indice": 0.56,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 870.00,
+                            "indice": 0.11,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 1020.00,
+                            "indice": 0.10,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 87,
+                            "emp": 17400.00,
+                            "indice": 0.50,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 60,
+                            "emp": 10125.00,
+                            "indice": 0.59,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 20,
+                            "emp": 2790.00,
+                            "indice": 0.72,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 30,
+                            "emp": 2100.00,
+                            "indice": 1.43,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 330.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 2610.00,
+                            "indice": 0.23,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 300.00,
+                            "indice": 1.33,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 450.00,
+                            "indice": 1.33,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 450.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 1470.00,
+                            "indice": 0.20,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 870.00,
+                            "indice": 0.11,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 300.00,
+                            "indice": 0.33,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 780.00,
+                            "indice": 0.38,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 37,
+                            "emp": 4740.00,
+                            "indice": 0.78,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 870.00,
+                            "indice": 0.11,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1020.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 96,
+                            "emp": 17460.00,
+                            "indice": 0.55,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 31,
+                            "emp": 9990.00,
+                            "indice": 0.31,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 2790.00,
+                            "indice": 0.25,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 32,
+                            "emp": 2070.00,
+                            "indice": 1.55,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 9,
+                            "emp": 2697.00,
+                            "indice": 0.33,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 279.00,
+                            "indice": 0.36,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 434.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 465.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 1472.50,
+                            "indice": 0.14,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 899.00,
+                            "indice": 0.11,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 806.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 42,
+                            "emp": 4929.00,
+                            "indice": 0.85,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 1023.00,
+                            "indice": 0.68,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 96,
+                            "emp": 17949.00,
+                            "indice": 0.53,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 36,
+                            "emp": 10633.00,
+                            "indice": 0.34,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 2883.00,
+                            "indice": 0.10,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 29,
+                            "emp": 2154.50,
+                            "indice": 1.35,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 9,
+                            "emp": 2697.00,
+                            "indice": 0.33,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 434.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 465.00,
+                            "indice": 1.51,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 186.00,
+                            "indice": 1.08,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 1550.00,
+                            "indice": 0.19,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 930.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 806.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 52,
+                            "emp": 4898.00,
+                            "indice": 1.06,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 11,
+                            "emp": 961.00,
+                            "indice": 1.14,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 81,
+                            "emp": 18972.00,
+                            "indice": 0.43,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 13,
+                            "emp": 10416.00,
+                            "indice": 0.12,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 2914.00,
+                            "indice": 0.21,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2108.00,
+                            "indice": 0.00,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 348.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 11,
+                            "emp": 2494.00,
+                            "indice": 0.44,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 232.00,
+                            "indice": 0.43,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 391.50,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 377.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 174.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1421.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 884.50,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 290.00,
+                            "indice": 0.34,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 754.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 60,
+                            "emp": 4669.00,
+                            "indice": 1.29,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 174.00,
+                            "indice": 0.57,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 841.00,
+                            "indice": 0.48,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 899.00,
+                            "indice": 0.11,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 94,
+                            "emp": 17864.00,
+                            "indice": 0.53,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 30,
+                            "emp": 9686.00,
+                            "indice": 0.31,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2639.00,
+                            "indice": 0.15,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 174.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 2001.00,
+                            "indice": 0.10,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 1,
+                            "emp": 372.00,
+                            "indice": 0.27,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 12,
+                            "emp": 2666.00,
+                            "indice": 0.45,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 403.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 403.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 1581.00,
+                            "indice": 0.06,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 744.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 62,
+                            "emp": 4991.00,
+                            "indice": 1.24,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 248.00,
+                            "indice": 0.40,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 899.00,
+                            "indice": 0.22,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 961.00,
+                            "indice": 0.21,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 101,
+                            "emp": 19034.00,
+                            "indice": 0.53,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 20,
+                            "emp": 10354.00,
+                            "indice": 0.19,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 5,
+                            "emp": 2852.00,
+                            "indice": 0.18,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 186.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 2139.00,
+                            "indice": 0.33,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 348.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 8,
+                            "emp": 2465.00,
+                            "indice": 0.32,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 377.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 348.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 174.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 1479.00,
+                            "indice": 0.07,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 290.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 725.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 232.00,
+                            "indice": 0.43,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 50,
+                            "emp": 4698.00,
+                            "indice": 1.06,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 174.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 841.00,
+                            "indice": 0.36,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 899.00,
+                            "indice": 0.11,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 113,
+                            "emp": 17922.00,
+                            "indice": 0.63,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 29,
+                            "emp": 9570.00,
+                            "indice": 0.30,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 5,
+                            "emp": 2668.00,
+                            "indice": 0.19,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 174.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 2001.00,
+                            "indice": 0.05,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 312.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 14,
+                            "emp": 2210.00,
+                            "indice": 0.63,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 208.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 338.00,
+                            "indice": 0.30,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 312.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 156.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 29,
+                            "emp": 1326.00,
+                            "indice": 2.19,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 780.00,
+                            "indice": 0.13,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 260.00,
+                            "indice": 0.77,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 650.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 208.00,
+                            "indice": 0.48,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 67,
+                            "emp": 4212.00,
+                            "indice": 1.59,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 156.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 208.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 754.00,
+                            "indice": 0.40,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 832.00,
+                            "indice": 0.12,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 1153,
+                            "emp": 16016.00,
+                            "indice": 7.20,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 93,
+                            "emp": 8528.00,
+                            "indice": 1.09,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 11,
+                            "emp": 2340.00,
+                            "indice": 0.47,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 130.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 15,
+                            "emp": 1742.00,
+                            "indice": 0.86,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 360.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 18,
+                            "emp": 2520.00,
+                            "indice": 0.71,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 330.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 420.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 22,
+                            "emp": 1500.00,
+                            "indice": 1.47,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 930.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 780.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 64,
+                            "emp": 4800.00,
+                            "indice": 1.33,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 180.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 19,
+                            "emp": 870.00,
+                            "indice": 2.18,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 960.00,
+                            "indice": 0.21,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 129,
+                            "emp": 20970.00,
+                            "indice": 0.62,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 47,
+                            "emp": 10200.00,
+                            "indice": 0.46,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 14,
+                            "emp": 2820.00,
+                            "indice": 0.50,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 30.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 120.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 2040.00,
+                            "indice": 0.29,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 336.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 10,
+                            "emp": 2380.00,
+                            "indice": 0.42,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 224.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 308.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 364.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 168.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 1344.00,
+                            "indice": 0.22,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 868.00,
+                            "indice": 0.46,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 280.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 728.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 224.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 53,
+                            "emp": 4508.00,
+                            "indice": 1.18,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 196.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 224.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 784.00,
+                            "indice": 0.26,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 924.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 126,
+                            "emp": 20020.00,
+                            "indice": 0.63,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 73,
+                            "emp": 9492.00,
+                            "indice": 0.77,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 7,
+                            "emp": 2604.00,
+                            "indice": 0.27,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 2072.00,
+                            "indice": 0.05,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 56.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 1904.00,
+                            "indice": 0.21,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 360.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 16,
+                            "emp": 2550.00,
+                            "indice": 0.63,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 150.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 390.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 1470.00,
+                            "indice": 0.07,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 900.00,
+                            "indice": 0.11,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 810.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 45,
+                            "emp": 4950.00,
+                            "indice": 0.91,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 840.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 990.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 86,
+                            "emp": 21270.00,
+                            "indice": 0.40,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 58,
+                            "emp": 10080.00,
+                            "indice": 0.58,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2790.00,
+                            "indice": 0.14,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2220.00,
+                            "indice": 0.18,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 15.00,
+                            "indice": 0.00,
+                            "name": "VENTAS SALES"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 1950.00,
+                            "indice": 0.05,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 360.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 2550.00,
+                            "indice": 0.08,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 150.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 390.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1410.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 900.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 810.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 33,
+                            "emp": 5010.00,
+                            "indice": 0.66,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 840.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 990.00,
+                            "indice": 0.10,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 65,
+                            "emp": 21120.00,
+                            "indice": 0.31,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 32,
+                            "emp": 10020.00,
+                            "indice": 0.32,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2790.00,
+                            "indice": 0.14,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 10,
+                            "emp": 2175.00,
+                            "indice": 0.46,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 1980.00,
+                            "indice": 0.15,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 360.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 8,
+                            "emp": 2490.00,
+                            "indice": 0.32,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 150.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 390.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 1410.00,
+                            "indice": 0.14,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 900.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 810.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 37,
+                            "emp": 5070.00,
+                            "indice": 0.73,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 840.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 990.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 61,
+                            "emp": 21000.00,
+                            "indice": 0.29,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 54,
+                            "emp": 10020.00,
+                            "indice": 0.54,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2760.00,
+                            "indice": 0.14,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2190.00,
+                            "indice": 0.18,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2025.00,
+                            "indice": 0.20,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 375.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 5,
+                            "emp": 2400.00,
+                            "indice": 0.21,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 420.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 1410.00,
+                            "indice": 0.14,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 900.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 840.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 41,
+                            "emp": 5070.00,
+                            "indice": 0.81,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 255.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 840.00,
+                            "indice": 0.12,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 960.00,
+                            "indice": 0.10,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 69,
+                            "emp": 23130.00,
+                            "indice": 0.30,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 54,
+                            "emp": 9975.00,
+                            "indice": 0.54,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2730.00,
+                            "indice": 0.15,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 2205.00,
+                            "indice": 0.27,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 3,
+                            "emp": 2070.00,
+                            "indice": 0.14,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 341.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 4,
+                            "emp": 2480.00,
+                            "indice": 0.16,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 434.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1457.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 8,
+                            "emp": 868.00,
+                            "indice": 0.92,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 13,
+                            "emp": 5146.00,
+                            "indice": 0.25,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 279.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 46,
+                            "emp": 24118.00,
+                            "indice": 0.19,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 25,
+                            "emp": 10261.00,
+                            "indice": 0.24,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 6,
+                            "emp": 2821.00,
+                            "indice": 0.21,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "emp": 2294.00,
+                            "indice": 0.04,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 2,
+                            "emp": 2170.00,
+                            "indice": 0.09,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 341.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2480.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 434.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1457.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 868.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 5146.00,
+                            "indice": 0.00,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 279.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 24118.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 10261.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2821.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2294.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2170.00,
+                            "indice": 0.00,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 319.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2320.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 406.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1363.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 290.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 812.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 4814.00,
+                            "indice": 0.00,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 261.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 841.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 22591.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 9599.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2639.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2146.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2030.00,
+                            "indice": 0.00,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 341.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2480.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 434.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1457.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 310.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 868.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 248.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 5146.00,
+                            "indice": 0.00,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 217.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 279.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 961.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 24149.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 10261.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2821.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2294.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2170.00,
+                            "indice": 0.00,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 319.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2320.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 406.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1363.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 290.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 812.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 232.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 4814.00,
+                            "indice": 0.00,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 203.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 261.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 841.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 899.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 22591.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 9599.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2639.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2146.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2030.00,
+                            "indice": 0.00,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 0,
+                            "emp": 330.00,
+                            "indice": 0.00,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2400.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "EFFLUENT TREATMENT ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 420.00,
+                            "indice": 0.00,
+                            "name": "FINANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "FOREIGN TRADE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 1410.00,
+                            "indice": 0.00,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 930.00,
+                            "indice": 0.00,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 300.00,
+                            "indice": 0.00,
+                            "name": "IT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 840.00,
+                            "indice": 0.00,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 240.00,
+                            "indice": 0.00,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 4980.00,
+                            "indice": 0.00,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 210.00,
+                            "indice": 0.00,
+                            "name": "PACKAGING ENGINEERING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 270.00,
+                            "indice": 0.00,
+                            "name": "PROCUREMENT"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 870.00,
+                            "indice": 0.00,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 930.00,
+                            "indice": 0.00,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 23370.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 9930.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2730.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2220.00,
+                            "indice": 0.00,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 0,
+                            "emp": 2100.00,
+                            "indice": 0.00,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
