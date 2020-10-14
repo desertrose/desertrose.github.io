@@ -1,0 +1,2376 @@
+{
+    "disciplinaByEmployeeType": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 54,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 80,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 52,
+                            "name": "Sindical"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 63,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 44,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 71,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 80,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 74,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 62,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 73,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 75,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 42,
+                            "name": "Sindical"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 49,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 50,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 53,
+                            "name": "Sindical"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 45,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 47,
+                            "name": "Sindical"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Administrativo"
+                        },
+                        {
+                            "value": 73,
+                            "name": "Sindical"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "disciplinaByCauses": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 16,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 44,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 12,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 14,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 29,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 13,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 33,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "Acta Administrativa"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 47,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Acta Administrativa"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 1,
+                            "name": "BPM Buenas Practicas de Manufactura"
+                        },
+                        {
+                            "value": 21,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 3,
+                            "name": "EPP Equipo de Protección Personal"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 42,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 18,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 1,
+                            "name": "EPP Equipo de Protección Personal"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 14,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 23,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 34,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Indisciplina - Conducta"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 9,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 1,
+                            "name": "BPM Buenas Practicas de Manufactura"
+                        },
+                        {
+                            "value": 13,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 9,
+                            "name": "EPP Equipo de Protección Personal"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 40,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 1,
+                            "name": "BPM Buenas Practicas de Manufactura"
+                        },
+                        {
+                            "value": 16,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 38,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 18,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 43,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 52,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Indisciplina - Conducta"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 36,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 39,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 1,
+                            "name": "EPP Equipo de Protección Personal"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 40,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 36,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 9,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 31,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Negligencia en el proceso"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 14,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 22,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "Acto Inseguro"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Buenas Prácticas de Manufactura"
+                        },
+                        {
+                            "value": 22,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Falta de Integridad"
+                        },
+                        {
+                            "value": 34,
+                            "name": "Falta Injustificada"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Faltas Injustificadas"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Negligencia en el proceso"
+                        },
+                        {
+                            "value": 1,
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "Comportamiento"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Falta Injustificada"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "disciplinaByAreaTable": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 5,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 2,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 24,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 10,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "AGAVE-FIELDS"
+                        },
+                        {
+                            "value": 4,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 2,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 3,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 44,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 16,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 6,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 14,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 29,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 3,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 25,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 25,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 3,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 2,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 10,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 20,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 3,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 6,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 32,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 21,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 3,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "EXECUTIVE"
+                        },
+                        {
+                            "value": 5,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 2,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 56,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 10,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 9,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 32,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 21,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 3,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 22,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 25,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 2,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 8,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 33,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 28,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 4,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 32,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 27,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 15,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 19,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 28,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 12,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 2,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 6,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 2,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 21,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 16,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 2,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 6,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 22,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 13,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 2,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 8,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 20,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 14,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 7,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 2,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 7,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 17,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 18,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 4,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 32,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 11,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 12,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 9,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "disciplinaByYear": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 58,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 83,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 53,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 63,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 46,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 71,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 81,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 74,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 62,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 75,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 78,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 45,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 50,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 50,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 56,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 45,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 50,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 74,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "disciplinaSuspendedDaysArea": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 7,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 18,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 6,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "LIQUEURS PLANT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 20,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 5,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HUMAN RESOURCES"
+                        },
+                        {
+                            "value": 1,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 4,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 9,
+                            "name": "RISK PREVENTION"
+                        },
+                        {
+                            "value": 31,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 11,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 2,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        },
+                        {
+                            "value": 4,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 11,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 5,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 5,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 6,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 47,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 19,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 12,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 13,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 3,
+                            "name": "ENVIRONMENTAL PROTECTION"
+                        },
+                        {
+                            "value": 8,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 18,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 2,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 19,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 7,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 4,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "QUALITY"
+                        },
+                        {
+                            "value": 5,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 6,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 2,
+                            "name": "TEQUILA PRODUCTION CASA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 16,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 7,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 3,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "HOSPITALITY"
+                        },
+                        {
+                            "value": 6,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 11,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 15,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "WAREHOUSE"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 7,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 3,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 8,
+                            "name": "LABORATORY"
+                        },
+                        {
+                            "value": 8,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 7,
+                            "name": "TEQUILA PRODUCTION"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 2,
+                            "name": "EFFLUENT TREATMENT"
+                        },
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 15,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 1,
+                            "name": "MAINTENANCE"
+                        },
+                        {
+                            "value": 9,
+                            "name": "TEQUILA BOTTLING"
+                        },
+                        {
+                            "value": 4,
+                            "name": "TEQUILA PRODUCTION"
+                        },
+                        {
+                            "value": 1,
+                            "name": "TEQUILA PRODUCTION ROSA CASTILLA"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "disciplinaSuspendedByYear": [
+        {
+            "year": 2019,
+            "fy": 2018,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 43,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 31,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 64,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 23,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "August",
+                    "data": [
+                        {
+                            "value": 9,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "December",
+                    "data": [
+                        {
+                            "value": 61,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 33,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 16,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 37,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "November",
+                    "data": [
+                        {
+                            "value": 26,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octuber",
+                    "data": [
+                        {
+                            "value": 18,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "September",
+                    "data": [
+                        {
+                            "value": 18,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2019,
+            "months": [
+                {
+                    "name": "February",
+                    "data": [
+                        {
+                            "value": 25,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "January",
+                    "data": [
+                        {
+                            "value": 37,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "March",
+                    "data": [
+                        {
+                            "value": 9,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2020,
+            "fy": 2020,
+            "months": [
+                {
+                    "name": "April",
+                    "data": [
+                        {
+                            "value": 11,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "July",
+                    "data": [
+                        {
+                            "value": 25,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "June",
+                    "data": [
+                        {
+                            "value": 26,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                },
+                {
+                    "name": "May",
+                    "data": [
+                        {
+                            "value": 15,
+                            "name": "Disciplinas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
