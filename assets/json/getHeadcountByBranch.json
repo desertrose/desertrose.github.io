@@ -8,38 +8,23 @@
                     "name": "January",
                     "data": [
                         {
-                            "value": 23,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 23,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 146,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 283,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 283,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1303,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 50,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 50,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -48,38 +33,23 @@
                     "name": "February",
                     "data": [
                         {
-                            "value": 20,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 20,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 146,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 284,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 284,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1299,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 49,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 49,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -88,38 +58,23 @@
                     "name": "March",
                     "data": [
                         {
-                            "value": 20,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 20,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 142,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 282,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 282,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1336,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 50,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 50,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -134,38 +89,23 @@
                     "name": "April",
                     "data": [
                         {
-                            "value": 20,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 20,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 141,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 284,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 284,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1343,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 51,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 51,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -174,38 +114,23 @@
                     "name": "May",
                     "data": [
                         {
-                            "value": 20,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 20,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 140,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 284,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 284,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1339,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 51,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 51,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -214,38 +139,23 @@
                     "name": "June",
                     "data": [
                         {
-                            "value": 20,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 20,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 140,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 284,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 284,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1328,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 53,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 53,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -254,38 +164,23 @@
                     "name": "July",
                     "data": [
                         {
-                            "value": 20,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 20,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 140,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 281,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 281,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1336,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 51,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 51,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -294,38 +189,23 @@
                     "name": "August",
                     "data": [
                         {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 140,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 286,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 286,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1360,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 51,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 51,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -334,38 +214,23 @@
                     "name": "September",
                     "data": [
                         {
-                            "value": 17,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 17,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 136,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 285,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 285,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1367,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 50,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 50,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -374,38 +239,23 @@
                     "name": "Octuber",
                     "data": [
                         {
-                            "value": 18,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 18,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 135,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1366,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 49,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 49,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -414,38 +264,23 @@
                     "name": "November",
                     "data": [
                         {
-                            "value": 18,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 18,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 135,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1366,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 47,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 47,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -454,38 +289,23 @@
                     "name": "December",
                     "data": [
                         {
-                            "value": 18,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 18,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 133,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 286,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 286,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1360,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 0,
+                            "Sindicalizado": 7,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 46,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 46,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -500,43 +320,23 @@
                     "name": "January",
                     "data": [
                         {
-                            "value": 17,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 17,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 137,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1453,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 3,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 3,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 7,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 44,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 44,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -545,43 +345,23 @@
                     "name": "February",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 125,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 286,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 286,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1424,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 14,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 14,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 132,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 41,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 41,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -590,43 +370,23 @@
                     "name": "March",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 120,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1406,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 14,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 14,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 147,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 40,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 40,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -641,43 +401,23 @@
                     "name": "April",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 120,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1398,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 14,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 14,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 147,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 38,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 38,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -686,43 +426,23 @@
                     "name": "May",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 120,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 284,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 284,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1394,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 143,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 38,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 38,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -731,43 +451,23 @@
                     "name": "June",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 118,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1459,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 149,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 39,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 39,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -776,43 +476,23 @@
                     "name": "July",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 119,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1460,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 150,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 39,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 39,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -821,43 +501,23 @@
                     "name": "August",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 119,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 283,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 283,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1460,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 150,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 43,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 43,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -866,43 +526,23 @@
                     "name": "September",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 119,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1460,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 150,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 39,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 39,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -911,43 +551,23 @@
                     "name": "Octuber",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 119,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1460,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 150,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 39,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 39,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -956,43 +576,23 @@
                     "name": "November",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 119,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1460,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 150,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 39,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 39,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
@@ -1001,43 +601,23 @@
                     "name": "December",
                     "data": [
                         {
-                            "value": 15,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 15,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 119,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (CSA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 287,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 287,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 1460,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 - (HDA) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 19,
-                            "employeeType": "Administrativo",
+                            "Administrativo": 19,
+                            "Sindicalizado": 0,
                             "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
                         },
                         {
-                            "value": 150,
-                            "employeeType": "Sindicalizado",
-                            "name": "B8113075105 -(CAST) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 39,
-                            "employeeType": "Administrativo",
-                            "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
-                        },
-                        {
-                            "value": 4,
-                            "employeeType": "Sindicalizado",
+                            "Administrativo": 39,
+                            "Sindicalizado": 0,
                             "name": "R1264415107 - (GDL) PATRON SPIRITS MEXICO SA DE CV"
                         }
                     ]
